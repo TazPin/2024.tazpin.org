@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tasmania&#039;s premier pinball event</description>
-	<lastBuildDate>Mon, 08 Apr 2024 03:00:35 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Apr 2024 07:04:52 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/01/cropped-2024-logo-Clear-BG-32x32.png</url>
