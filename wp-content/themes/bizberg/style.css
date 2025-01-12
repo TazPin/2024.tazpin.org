@@ -877,3 +877,44 @@ object {
 .gallery-caption {
 	display: block;
 }
+
+
+
+.banner {
+  background: #009579;
+}
+
+.banner__content {
+  padding: 4em;
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.banner__text {
+  flex-grow: 1;
+  line-height: 2;
+  font-family: "Quicksand", sans-serif;
+}
+
+.banner__close {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.banner__text,
+.banner__close > span {
+  color: #ffffff;
+}
+
+.banner__text > a {
+  color: rgb(250, 212, 43);
+}
+
+.banner__icon {
+  float: left;
+  padding: 2em;
+  width: 200px;
+}
